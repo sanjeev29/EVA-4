@@ -1,5 +1,7 @@
 # Work on MNIST Dataset
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sanjeev29/EVA-4/blob/master/S4/s4.ipynb)
+
 ## Goals
 * Validation accuracy > 99.4%
 * Parameters < 20,000
