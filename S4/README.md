@@ -1,4 +1,4 @@
-# Work MNIST Dataset
+# Work on MNIST Dataset
 
 ## Goals
 * Validation accuracy > 99.4%
