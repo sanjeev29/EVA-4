@@ -10,8 +10,8 @@
 
 ### Validation accuracy change plot
 
-![Image description](https://github.com/sanjeev29/EVA-4/blob/master/S7/validation_accuracy_change_plot.png)
+![Image description](https://github.com/sanjeev29/EVA-4/blob/master/S7/validation_accuracy_change_plot.jpg)
 
 ### Validation loss change plot
 
-![Image description](https://github.com/sanjeev29/EVA-4/blob/master/S7/validation_loss_change_plot.png)
+![Image description](https://github.com/sanjeev29/EVA-4/blob/master/S7/validation_loss_change_plot.jpg)
