@@ -1,4 +1,4 @@
-# Work on tiny-imagenet-200 Dataset
+# Work on tiny-imagenet-200 Dataset with ResNet18 Architecture
 
 ## Goals
 
