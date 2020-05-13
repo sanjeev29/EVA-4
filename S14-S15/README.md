@@ -1,12 +1,5 @@
 # Monocular Depth Estimation and Segmentation
 
-## Group Members:
-
-1. Abhijit Mali
-2. Gunjan Deotale
-3. Sanket Maheshwari
-4. Sanjeev Raichur
-
 ## Dataset
 
 Link: https://drive.google.com/drive/folders/1MST5DUffe3h9Q4B-x7tpNxXl4q4_E8ah
@@ -91,3 +84,10 @@ Link: https://github.com/ialhashim/DenseDepth
 5. We created an overlay of fg and bg images by randomly placing fg images(normal and flipped) on bg image
 6. Mask was created for these overlay images
 7. Depth images were generated for the overlay images
+
+## Group Members:
+
+1. Abhijit Mali
+2. Gunjan Deotale
+3. Sanket Maheshwari
+4. Sanjeev Raichur
